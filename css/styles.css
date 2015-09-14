@@ -1,0 +1,12 @@
+#show-place{
+  display:none;
+}
+
+.container{
+  font-family: 'Spinnaker', sans-serif;
+  background-color: darkgrey;
+}
+
+img {
+  width: 100%;
+}
